@@ -1,0 +1,5 @@
+<div class="reponsive">
+  <img  src= "http://stefannibrasil.me/wp-content/uploads/2017/05/elixir-vertical.png">
+  <button><%= link "voltar agora",to: "/" %> </button>
+  <p class="lead">Estamos em outra Pagina <br /> </p>
+</div>

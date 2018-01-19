@@ -1,0 +1,12 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}", name: "Phoenix!" %></h2>
+  <p class="lead">Pagina Oláaaa Elixir Phoenix <br /> só uma pagina mesmo .</p>
+</div>
+
+<div class="reponsive">
+  <img  src= "http://stefannibrasil.me/wp-content/uploads/2017/05/elixir-vertical.png">
+  <button><%= link "Ir Para a outra Pagina",to: "/outra" %> </button>
+  <p class="lead">Front simples de um arquivo html <br /> </p>
+</div>
+
+
